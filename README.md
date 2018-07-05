@@ -1,0 +1,2 @@
+# MAD
+Mathematical Aleatoric Dynamo
